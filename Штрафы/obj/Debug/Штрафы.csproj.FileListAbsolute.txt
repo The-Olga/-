@@ -1,0 +1,11 @@
+C:\Users\Оля\source\repos\Штрафы\Штрафы\bin\Debug\Штрафы.exe.config
+C:\Users\Оля\source\repos\Штрафы\Штрафы\bin\Debug\Штрафы.exe
+C:\Users\Оля\source\repos\Штрафы\Штрафы\bin\Debug\Штрафы.pdb
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.csproj.AssemblyReference.cache
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.csproj.SuggestedBindingRedirects.cache
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.Form1.resources
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.Properties.Resources.resources
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.csproj.GenerateResource.cache
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.csproj.CoreCompileInputs.cache
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.exe
+C:\Users\Оля\source\repos\Штрафы\Штрафы\obj\Debug\Штрафы.pdb
